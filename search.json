@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "agentic-rag",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "agentic-rag"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "agentic-rag",
+    "section": "Install",
+    "text": "Install\npip install agentic_rag",
+    "crumbs": [
+      "agentic-rag"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "agentic-rag",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+2\n\n3",
+    "crumbs": [
+      "agentic-rag"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "from fastcore.test import *\n\n\nsource\n\nconnect_agent\n\n connect_agent (agent)\n\nConnect to agent\n\nconnect_agent('Vector 007')\n\n'Connected to Vector 007!'\n\n\n\ntest_eq(connect_agent('Vector 007'), 'Connected to Vector 007')\n\nAssertionError: ==:\nConnected to Vector 007!\nConnected to Vector 007\n\n\n\nfrom IPython.display import display, SVG\n\n\ndisplay(SVG('&lt;svg height=\"100\" xmlns=\"http://www.w3.org/2000/svg\"&gt;&lt;circle cx=\"50\" cy=\"50\" r=\"40\"/&gt;&lt;/svg&gt;'))",
+    "crumbs": [
+      "core"
+    ]
+  }
+]
