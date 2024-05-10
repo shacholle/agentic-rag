@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://shacholle.github.io',
                 'git_url': 'https://github.com/shacholle/agentic-rag',
                 'lib_path': 'agentic_rag'},
-  'syms': {'agentic_rag.core': {'agentic_rag.core.foo': ('core.html#foo', 'agentic_rag/core.py')}}}
+  'syms': {'agentic_rag.core': {'agentic_rag.core.connect_agent': ('core.html#connect_agent', 'agentic_rag/core.py')}}}

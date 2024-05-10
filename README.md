@@ -17,7 +17,7 @@ pip install agentic_rag
 Fill me in please! Don’t forget code examples:
 
 ``` python
-1+1
+1+2
 ```
 
-    2
+    3

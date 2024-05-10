@@ -4,6 +4,6 @@ project:
 website:
   title: "agentic-rag"
   site-url: "https://shacholle.github.io/agentic-rag"
-  description: "RAG with Agents for Vector and Summary indexes."
+  description: "RAG with Agents, Vector database, and Summary indexes."
   repo-branch: main
   repo-url: "https://github.com/shacholle/agentic-rag"
